@@ -29,7 +29,7 @@ Follow these steps to run the application locally:
 
     ```bash
     git clone https://github.com/rasheey97-alt/NIBSS.git
-    cd your-repo
+    cd NIBSS
     ```
 
 2. Build the application using Maven:
