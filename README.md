@@ -28,7 +28,7 @@ Follow these steps to run the application locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/rasheey97-alt/NIBSS.git
     cd your-repo
     ```
 
